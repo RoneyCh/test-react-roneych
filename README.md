@@ -12,4 +12,5 @@
 
 
 # Run the project
-  yarn / npm install
+  Instalar todas as dependências: yarn / npm install<br>
+  Rodar o projeto com: yarn / npm start
