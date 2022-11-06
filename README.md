@@ -1,6 +1,3 @@
-# Teste ReactJS - Frontend Developer
-  Este repositório responde as perguntas/questões pedidas. Como a utilização de bibliotecas para estilização como material UI e styled components era opcional, optei por utilizar o chakra UI.
-
 # Tech
 - ReactJS
 - ChakraUI 
